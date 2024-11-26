@@ -11,6 +11,6 @@ This project is a React Native application built with Expo, which simplifies the
 - React Native: For building native mobile applications.
 - Tailwind CSS: A utility-first CSS framework for rapid and customized UI design.
 
-You can watch the video of the project [here]([https://example.com/video](https://drive.google.com/file/d/1UC136umRLSvAlEejKx2GGY21UN2Ta0MV/view?usp=sharing)).
+You can watch the video of the project [here](https://drive.google.com/file/d/1UC136umRLSvAlEejKx2GGY21UN2Ta0MV/view?usp=sharing).
 
 
